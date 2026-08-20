@@ -29,22 +29,9 @@
 		1FA46AA53035EE0500F357DC /* titanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = titanUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		1FA46AB93035F05200F357DC /* Exceptions for "titan" folder in "titan" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 1FA46A8D3035EE0400F357DC /* titan */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		1FA46A903035EE0400F357DC /* titan */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				1FA46AB93035F05200F357DC /* Exceptions for "titan" folder in "titan" target */,
-			);
 			path = titan;
 			sourceTree = "<group>";
 		};
