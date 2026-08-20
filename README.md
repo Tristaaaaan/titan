@@ -63,10 +63,6 @@ Contributions are welcome, especially around the upcoming Auto Zoom & Pan featur
 3. Commit your changes
 4. Open a pull request
 
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
 ---
 
 _Built with Swift & ScreenCaptureKit for macOS._
